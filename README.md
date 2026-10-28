@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Rishikesh 👋
 
-<!--
-**8888rishikesh-cell/8888rishikesh-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student from Gurgaon 🚀 | Open to internships
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Second-year BCA student at DPG Degree College
+- 💻 Learning web development (HTML, CSS,JS),C programming and python
+- 🎬 Running a YouTube channel on AI news and tool comparisons
+- 🌱 Currently building my portfolio website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+## Find me
+- 🌐 Portfolio: [8888rishikesh-cell.github.io](https://8888rishikesh-cell.github.io)
+- 📸 Instagram: [@sin17gh_rishi](https://www.instagram.com/sin17gh_rishi)
+- 💼 LinkedIn: [8888rishikesh-cell](https://www.linkedin.com/in/TERA-USERNAME)
+- 📧 Email: 8888rishu@gmail.com
