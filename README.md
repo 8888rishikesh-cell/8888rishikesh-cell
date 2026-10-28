@@ -1,11 +1,17 @@
-# Hi, I'm Rishikesh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rishikesh%20Singh&fontSize=50&fontColor=ffffff&desc=BCA%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Content%20Creator&descSize=18&descAlignY=65" width="100%"/>
 
-BCA student from Gurgaon 🚀 | Open to internships
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=550&lines=BCA+Student+from+Gurgaon;Learning+Web+Development;Open+to+Internships" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOCATION-GURGAON-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS-2563eb?style=for-the-badge" />
+</p>
 
 ## About me
 - 🎓 Second-year BCA student at DPG Degree College
 - 💻 Learning web development (HTML, CSS, JavaScript) and programming in C and Python
-- 🎬 Running a YouTube channel on AI news and tool comparisons
 - 🌱 Currently building my portfolio website
 
 ## Skills
